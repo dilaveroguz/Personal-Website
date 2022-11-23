@@ -90,7 +90,8 @@ main article a {
 
 main article p a:hover {
     color: var(--border-color);
-    font-size: 0.9rem;
+    
+    
 }
 
 main article ul {
